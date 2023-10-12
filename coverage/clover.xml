@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1697134955546" clover="3.2.0">
-  <project timestamp="1697134955547" name="All files">
-    <metrics statements="193" coveredstatements="77" conditionals="28" coveredconditionals="11" methods="48" coveredmethods="15" elements="269" coveredelements="103" complexity="0" loc="193" ncloc="193" packages="5" files="12" classes="12"/>
+<coverage generated="1697139696718" clover="3.2.0">
+  <project timestamp="1697139696718" name="All files">
+    <metrics statements="193" coveredstatements="90" conditionals="28" coveredconditionals="18" methods="48" coveredmethods="21" elements="269" coveredelements="129" complexity="0" loc="193" ncloc="193" packages="5" files="12" classes="12"/>
     <package name="src">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <file name="app.js" path="C:\Max\Estudos\Dev\Front\Node\Jest\Alura-NodeTestsJest\src\app.js">
@@ -144,34 +144,34 @@
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <file name="dbconfig.js" path="C:\Max\Estudos\Dev\Front\Node\Jest\Alura-NodeTestsJest\src\db\dbconfig.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="5" count="2" type="stmt"/>
-        <line num="6" count="2" type="stmt"/>
-        <line num="8" count="2" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
       </file>
     </package>
     <package name="src.models">
-      <metrics statements="60" coveredstatements="18" conditionals="24" coveredconditionals="8" methods="29" coveredmethods="9"/>
+      <metrics statements="60" coveredstatements="31" conditionals="24" coveredconditionals="15" methods="29" coveredmethods="15"/>
       <file name="autor.js" path="C:\Max\Estudos\Dev\Front\Node\Jest\Alura-NodeTestsJest\src\models\autor.js">
-        <metrics statements="20" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="10" coveredmethods="0"/>
-        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="14" count="0" type="stmt"/>
-        <line num="15" count="0" type="stmt"/>
-        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+        <metrics statements="20" coveredstatements="13" conditionals="8" coveredconditionals="7" methods="10" coveredmethods="6"/>
+        <line num="13" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="4" type="cond" truecount="2" falsecount="0"/>
         <line num="21" count="0" type="stmt"/>
-        <line num="25" count="0" type="stmt"/>
-        <line num="26" count="0" type="stmt"/>
-        <line num="30" count="0" type="stmt"/>
-        <line num="31" count="0" type="stmt"/>
-        <line num="33" count="0" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
         <line num="38" count="0" type="stmt"/>
         <line num="42" count="0" type="stmt"/>
         <line num="47" count="0" type="stmt"/>
-        <line num="56" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="56" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="57" count="0" type="stmt"/>
         <line num="58" count="0" type="stmt"/>
-        <line num="60" count="0" type="stmt"/>
-        <line num="61" count="0" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
         <line num="65" count="0" type="stmt"/>
       </file>
       <file name="editora.js" path="C:\Max\Estudos\Dev\Front\Node\Jest\Alura-NodeTestsJest\src\models\editora.js">
